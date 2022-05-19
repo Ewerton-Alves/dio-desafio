@@ -1,1 +1,15 @@
 Arquivo para estudo dos comandos do Github
+
+Início do estudo sobre Git/Github
+
+*comando para subir a atualização no Github
+git bash here
+	git status
+	git add .   
+	git commit -m "alteração do projeto"
+	git push origin main
+
+
+*comando para puxar a atualização do Github
+git bash here
+	git pull origin main
